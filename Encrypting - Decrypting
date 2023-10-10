@@ -1,3 +1,4 @@
+This Section is about Encrypting and Decrypting algorithms
 # crypto
 The `crypto` command is meant to be used in conjuction with the `crack` command. The `crypto` command allows you to encrypt and decrypt text by using various algorithms. See the list below for available algorithms. `crypto` is no real world linux command. It's meant to create gameplay options.
 There is a very good [website](http://www.crypto-it.net/eng/simple/index.html) explaining simple encryption methods. Future algorithms will be taken from there.
